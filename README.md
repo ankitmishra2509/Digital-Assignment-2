@@ -22,7 +22,7 @@ Linear regression aims to minimize the error between actual values and predicted
 2. *Gradient Descent*: Iteratively updates weights to minimize the cost function:  
    Here, J(m, b) represents the mean squared error (MSE).
 
-## *2\. Coding Linear Regression (GitHub Link: \[Your Repo Link Here\])*
+## *2\. Coding Linear Regression
 
 ### *Dataset Selection*
 
